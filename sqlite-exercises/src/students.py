@@ -29,10 +29,4 @@ cur.execute('''INSERT INTO enrolled
   ('0003', '00783', 'B+')''')
 
 con.commit()
-
-# If you google "list tables sqlite3", the first link has the answer from sqlite.org...
-# https://www.sqlite.org/faq.html#:~:text=If%20you%20are%20running%20the,including%20all%20tables%20and%20indices.
-sql="SELECT name FROM sqlite_schema WHERE type='table' ORDER BY name;"
-printit(cur, sql)
-
 con.close()

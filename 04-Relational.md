@@ -14,7 +14,12 @@ HW #2 due 9 Feb -- See Canvas
 
 ## Reading (for next week)
 
-* TBD
+* ISL -- Chapter 3: Linear regression
+  * Sections 3.1-3.4 only.
+* [Chapter 3 slides](https://hastie.su.domains/ISLR2/Slides/Ch3_Linear_Regression.pdf)
+  * Use the slides as a study guide.
+* [Chapter 3 lectures](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+  * Lectures are optional for those who prefer this approach.
 
 ## Polleverywhere
 

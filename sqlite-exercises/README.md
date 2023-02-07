@@ -59,29 +59,6 @@ make data/students.db
 make clean
 ```
 
-## Exercise s1 -- table names
+## Exercise s1 -- TBD
 
-List all the table names in the database
-
-## Exercise s2 -- unique elements
-
-List the sids for students who are enrolled
-
-## Exercise s3 -- student info for all enrolled students
-
-* List all the student info for enrolled students
-
-## Exercise s4 -- join
-
-* List info for all the CS majors, including info on any classes in which they're enrolled.
-* Answer this one using a JOIN
-* hint: [LEFT JOIN](https://www.w3schools.com/sql/sql_join_left.asp) -- w3schools.com
-
-## Exercise s5 -- debug
-
-Debug `src/s5.py` and indicate what you did to fix the code.
-
-## Exercise s6 -- pandas
-
-Using pandas, read the students database and create an in-memory database with the same data.
-Print the tables to verify the result.
+...
