@@ -8,10 +8,9 @@
 ## Links
 
 * [05-least-squares-exercises.ipynb](https://colab.research.google.com/drive/1ImFUE6l-65zeH75FKzy1obEiWLuAcES1)
-* [05-logreg-default-exercises.ipynb](https://colab.research.google.com/drive/1CdPG_1nPXYLgQaGsqOlBlzaoCADnYLoJ)
-* [05-iris-logreg-exercises.ipynb]()
-* [05-classification.ipynb]()
-* [scratch-notebook]()
+* [05-default-logreg-exercises.ipynb](https://colab.research.google.com/drive/1CdPG_1nPXYLgQaGsqOlBlzaoCADnYLoJ)
+* [06-default-naive-bayes-exercises.ipynb](https://colab.research.google.com/drive/1VIB7_4mLNiGCOI7f3EkEEQmLA2r-B7Z_)
+* [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG)
 * https://pollev.com/pbogden
 
 ## Reading (for next week)
