@@ -1,6 +1,10 @@
 
 # 06-Classification
 
+* Logistic regression
+* Scikit-Learn API
+* Gaussian naive Bayes
+
 ## Links
 
 * [05-least-squares-exercises.ipynb](https://colab.research.google.com/drive/1ImFUE6l-65zeH75FKzy1obEiWLuAcES1)
