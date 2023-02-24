@@ -11,6 +11,18 @@
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG)
 * https://pollev.com/pbogden
 
+## Reading (for next week)
+
+* ISLR2 -- Chapter 6.1-6.4: Model selection
+  * There's a fair amount of reading. Try to get the main concepts and don't get caught up in the math.
+  * In particular, try to understand the main points of subset selection and shrinkage methods.
+  * Skim the section on Cp, AIC, BIC, and Adjusted R2.
+  * Lasso and Ridge are important: How do they work? Why might you want to use one versus the other?
+  * If you're not familiar principal components, then read 6.3 for an introduction to the concepts.
+  * High dimensional situations. What does it mean to be high-dimensional? What are some problems that arise? 
+* [05.09-Principal-Component-Analysis.ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb)
+  * VanderPlas has a good section on principal components implemented in Python. It's worth a look.
+
 ## Naive Bayes
 
 * Continued from last time -- naive Bayes
