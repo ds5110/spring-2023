@@ -10,6 +10,8 @@
 * [08-curse-demo-exercises](https://colab.research.google.com/drive/1SXwgeuo1S6sDRBHVUPN2f10ZjwaPdobh)
 * [08-iris-pipeline-exercises](https://colab.research.google.com/drive/1o7FsxAw1K63Dk0wbP920tJd8kuutsez1)
 * [08-iris-regularization-exercises](https://colab.research.google.com/drive/1RYIc5uYazNdZqlH-nu0aOBroKZv_Xgnw)
+* Polleverywhere: https://pollev.com/pbogden
+* [scratch notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG) -- shared
 
 ## Reminder
 
