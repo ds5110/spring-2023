@@ -1,5 +1,6 @@
 # DS 5110 -- Spring 2023
 
+* [09-Trees.md](09-Trees.md) -- 14 Mar 2023
 * [08-Selection.md](08-Selection.md) -- 28 Feb 2023
 * [07-Resampling.md](07-Resampling.md) -- 21 Feb 2023
 * [06-Classification.md](06-Classification.md) -- 14 Feb 2023
