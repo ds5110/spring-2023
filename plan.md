@@ -11,7 +11,7 @@ Revised project timeline
 | Presentations             | 18 Apr   | Tuesday (in class) |
 | Final submission          | 25 Apr   | Submission |
 
-## plan.md -- due March 22
+## plan.md -- due March 24
 
 In the main directory of your project repo create a `plan.md` file with the following sections:
 
