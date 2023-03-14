@@ -46,6 +46,7 @@
   * Last time -- there was a swarm of earthquakes over AK
 * It's time to explore what's going on in AK -- what's the story up there?
   * Features options -- magnitude, time, lat, lon, depth, etc.
+  * [USGS earthquake feeds](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 
 ## Interactive EDA
 
