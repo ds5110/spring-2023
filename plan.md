@@ -41,7 +41,7 @@ In the main directory of your project repo create a `plan.md` file with the foll
 
 ## Check-in -- due Mar 31
 
-* Half-hour Teams meeting (or in person) with instructor to occur sometime before April 5
+* Half-hour Teams meeting (or in person) with instructor to occur sometime before Mar 31
   * You can have as many check-ins as you want, but minimum of one before Turkey Day
   * It's your responsibility to shedule a check-in meeting
 * Demonstrated progress on the project goals presented with a walk-through of the project repo
