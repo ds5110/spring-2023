@@ -21,6 +21,7 @@
 * [09-airports-to-earthquakes.ipynb](https://colab.research.google.com/drive/1V4irrK5ex39u9WVETcwqVR-NR0nFJ2l3)
 * [09-observable-filtered-earthquakes](https://colab.research.google.com/drive/1wlrA5lnadw4_y-byzAEgliIPZ65ThO3Y)
 * [09-observable-filtered-earthquakes](https://colab.research.google.com/drive/1wlrA5lnadw4_y-byzAEgliIPZ65ThO3Y)
+* [09-logreg-iris-regularization](https://colab.research.google.com/drive/1orOZNgX3VdazQIBn4qgkptV9I9J8B8Wh)
 * [scratch-notebook](https://colab.research.google.com/drive/1H4sj-XdST_PqBXQTrkutsamSFrOs2wNG)
 * [poll everywhere](https://pollev.com/pbogden)
 
@@ -46,7 +47,6 @@
   * Last time -- there was a swarm of earthquakes over AK
 * It's time to explore what's going on in AK -- what's the story up there?
   * Features options -- magnitude, time, lat, lon, depth, etc.
-  * [USGS earthquake feeds](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 
 ## Interactive EDA
 
